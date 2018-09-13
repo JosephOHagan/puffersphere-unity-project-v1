@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/User Study/Fix_4_RR_Alig.unity
+  isLoaded: 1
+  isActive: 1
